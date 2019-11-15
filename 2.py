@@ -13,7 +13,6 @@ def getItemSize(img):
     interval = 10
     before = 0
     item = [0]
-
     resultY = []
 
     for i in range(0, len(img)):
